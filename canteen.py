@@ -2,7 +2,8 @@ menu = {
     "idli": 30,
     "dosa": 50,
     "tea": 15,
-    "coffee": 20
+    "coffee": 20,
+    "samosa": 15
 }
 
 print("Welcome to the Canteen!")
