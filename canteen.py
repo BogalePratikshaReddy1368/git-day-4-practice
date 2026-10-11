@@ -1,7 +1,7 @@
 menu = {
     "idli": 30,
     "dosa": 50,
-    "tea": 15,
+    "tea": 20,
     "coffee": 20,
     "samosa": 15,
     "juice": 40
