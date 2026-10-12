@@ -4,7 +4,8 @@ menu = {
     "tea": 20,
     "coffee": 20,
     "samosa": 15,
-    "juice": 40
+    "juice": 40,
+    "lemon Rice":20
 }
 
 print("Welcome to the Canteen!")
